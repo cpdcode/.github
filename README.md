@@ -7,6 +7,6 @@ repository named `.github`, so this repository is intentionally public. Keep the
 content generic: no private project details, local paths, secrets, credentials,
 or repository-specific instructions belong here.
 
-Repositories inherit these defaults when they do not define their own matching
-file. Add a repo-local pull request template only when that repository needs a
-durable, reviewed exception.
+Repositories inherit these defaults when they do not define a matching pull
+request or issue template. Add a repo-local template only for a durable,
+reviewed exception.
