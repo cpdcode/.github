@@ -1,34 +1,19 @@
 ---
-name: 🧭 Work Item
-about: Plan A Focused Repository Change
-title: "<Emoji> <Short Outcome In Title Case>"
+name: Work Item
+about: Describe a focused repository outcome
+title: ""
 labels: ""
 assignees: ""
 ---
 
-## 🧭 Overview
+## Summary
 
-- Type: <Epic | Story | Task | Bug | Spike | Chore | Debt | Doc | Ops>
-- Status: <Intake | Triage | Ready | In Progress | In Review | Blocked | Done | Won't Do | Duplicate | Parked>
-- Priority: <P0 | P1 | P2 | P3 | P4>
-- Owner: @github-login
-- Related: <#123 — Relationship | —>
+<!-- Lead with the intended outcome and why it matters in one or two plain-language sentences. Omit implementation details that are clear from the repository. -->
 
-**Problem:** <Explain What Is Wrong Or Missing And Why It Matters In Complete Sentences.>
+## Acceptance
 
-**Outcome:** <Describe The Completed State In Complete Sentences.>
+- <Observable result>
 
-## ✅ Acceptance
+## Context
 
-- Observable Result Or Behavior
-
-## 🧪 Validation
-
-- `<Exact Command>` — <Expected Result>
-- Evidence: <Artifact Or None>
-
-## 🚀 Impact
-
-- Scope: <In Scope And Key Boundary>
-- Dependencies: <Dependency | —>
-- Delivery: <Version, Data, Privacy, Rollout, And Recovery | —>
+<!-- Optional. Delete this section unless a decision, constraint, dependency, related issue, rollout concern, or other critical fact cannot be recovered from the repository. -->
