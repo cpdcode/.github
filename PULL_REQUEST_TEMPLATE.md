@@ -1,6 +1,4 @@
-# 🎟️ #123
-
-<!-- Use the primary issue number. Follow this template exactly. -->
+<!-- Title: <Outcome In Title Case> (#123). Use the issue title unless one issue needs multiple PRs. -->
 
 ## 📖 Summary
 
